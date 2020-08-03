@@ -1,0 +1,19 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "Mobile first contact form application deployed on github pages",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "Responsive",
+    "form"
+  ],
+  "author": "",
+  "homepage": "https://Drewery-ctrl.github.io/contact-form",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
